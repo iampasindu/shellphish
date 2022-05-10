@@ -43,13 +43,13 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 - Added Requirements 
 
 
-![Screenshot](screenshot.png)
+
 
 ![Screenshot_FB](screenshot_fb.png)
 
 ### Usage:
 ```bash
-apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/AbirHasan2005/ShellPhish && cd ShellPhish && chmod +x * && bash shellphish.sh
+apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/iampasindu/shellphish.git && cd ShellPhish && chmod +x * && bash shellphish.sh
 ```
 
 - You will need to download ngrok ngrok.com/get-started/setup for workaround.
@@ -71,27 +71,27 @@ bash update.sh
 ## Legal disclaimer:
 ***Usage of Shellphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.***
 
-## Modified by @AbirHasan2005
+## Modified by SL CODING LAB (iampasindu)
 
 
 
-### Here ***sites*** folder collected from ZPhisher (https://github.com/htr-tech/zphisher)
+### Here ***sites*** folder collected from ZPhisher (https://github.com/iampasindu/shellphish.git)
 
 ### For any kind of help, support, suggetion and request ask in my Telegram Group:
 <p align="left">
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/htmlsourcecode"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 </p>
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/iampasindu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p><p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+<a href="https://twitter.com/itspasindu"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 </p><p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+<a href="https://facebook.com/naadagama2"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p><p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://instagram.com/_.pasindu"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
 
 ## Doante Me:
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/AbirHasan2005)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://codinglab50.wixsite.com/codinglab/plans-pricing)
